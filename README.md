@@ -94,4 +94,3 @@ Transactions Bar Char (Use your created API to fetch the data)
 the selected month irrespective of the year using API
 - Month selected from dropdown (above the table) should be applied here
 
-3
